@@ -1,10 +1,10 @@
-### Hi :octocat:, I'm fernanda
+### :octocat: Hi, I'm fernanda
 
-🎓  multimedia engineer and currently a 🚧 ph.d. student in computer engineering. 
+:mortar_board: Multimedia engineer, and currently a Ph.D. student in computer engineering. 
 
-I have experience as an academic researcher, focusing mainly on areas related to augmented reality and machine learning. My interests cover from UI/UX to front-end development. I’m an enthusiast of self-learning, and I feel excited in front of big new challenges.
+:dart: I have experience as an academic researcher, focusing mainly on areas related to Augmented Reality and Machine Learning. My interests cover from UI/UX to Front-end Development. I'm an enthusiast of self-learning, and I feel excited in front of big new challenges.
 
-Look at some of my post on [Medium](https://medium.com/@mafda_), and check out my [website](https://mafda.github.io/).
+:mag: Look at some of my works at [Medium](https://medium.com/@mafda_), and [Codepen](https://codepen.io/mafda).
 
 <!--
 **mafda/mafda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
