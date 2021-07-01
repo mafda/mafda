@@ -1,12 +1,12 @@
-### :octocat: Hi, I'm fernanda
+### :octocat: hi, I'm fernanda
 
-:earth_americas: Colombian living in Brazil!
+:earth_americas: colombian living in brazil!
 
 :dart: I have experience as an academic researcher, focusing mainly on areas related to Augmented Reality and Machine Learning. I'm an enthusiast of self-learning, and I feel excited in front of big new challenges.
 
-:rocket: Currently, I am studying MLOps and Kubernetes.
+:rocket: currently, I am studying MLOps and Kubernetes.
 
-:mag: Check out some of my works at [Medium](https://mafda.medium.com/) and [Codepen](https://codepen.io/mafda).
+:mag: check out some of my works at [Medium](https://mafda.medium.com/) and [Codepen](https://codepen.io/mafda).
 
 <!--
 **mafda/mafda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
