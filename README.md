@@ -1,6 +1,6 @@
 ### :octocat: Hi, I'm fernanda
 
-:mortar_board: Multimedia engineer, and currently a Ph.D. student in computer engineering. 
+:mortar_board: Multimedia engineer, and currently a Ph.D. candidate in computer engineering. 
 
 :dart: I have experience as an academic researcher, focusing mainly on areas related to Augmented Reality and Machine Learning. I'm an enthusiast of self-learning, and I feel excited in front of big new challenges.
 
