@@ -6,6 +6,8 @@
 
 :mag: Look at some of my works at [Medium](https://mafda.medium.com/), and [Codepen](https://codepen.io/mafda).
 
+:rocket: Currently, I am studying MLOps and Kubernetes.
+
 <!--
 **mafda/mafda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
