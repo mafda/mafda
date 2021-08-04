@@ -1,12 +1,14 @@
-### :octocat: hi, i'm fernanda
+### :octocat: hi, i'm maría fernanda rodríguez r.
 
 :earth_americas: colombian living in brazil.
 
-:dart: i've experience as an academic researcher, focusing mainly on areas related to augmented reality and machine learning. i'm an enthusiast of self-learning, and i feel excited in front of big new challenges.
+:dart: as a multimedia engineer, i have experience in front-end development, research, and recently as a data scientist.
 
-:rocket: currently, i'm studying mlops and kubernetes.
+:computer: i like technology, and i am passionate about solutions. from my perspective, information technologies have enormous potential to solve problems and have a huge impact on everyone’s life. being part of this process is just exciting!
 
-:mag: check out some of my works at [Medium](https://mafda.medium.com/) and [Codepen](https://codepen.io/mafda).
+:rocket: i’m currently learning mlops and kubernetes.
+
+:mag: check out some of my works at [medium](https://mafda.medium.com/) and [codepen](https://codepen.io/mafda).
 
 <!--
 **mafda/mafda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
