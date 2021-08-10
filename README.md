@@ -2,9 +2,9 @@
 
 :earth_americas: colombian living in brazil.
 
-:dart: as a multimedia engineer, i have experience in front-end development, research, and recently as a data scientist.
+:dart: as a multimedia engineer, i have experience in front-end development, research, and recently i am working as a data scientist.
 
-:computer: i like technology, and i am passionate about solutions. from my perspective, information technologies have enormous potential to solve problems and have a huge impact on everyone’s life. being part of this process is just exciting!
+:computer: i like technology, and i am passionate about solutions. from my perspective, information technologies have enormous potential to solve problems and have a huge impact on everyone’s life. being part of this process is exciting!
 
 :rocket: i’m currently learning mlops and kubernetes.
 
