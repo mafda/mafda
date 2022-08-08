@@ -6,7 +6,7 @@
 
 :computer: i like technology, and i am passionate about searching for and creating solutions. from my perspective, information technologies has enormous potential to solve problems, and it has an immense impact on everyone's life. being part of this process is exciting!
 
-:rocket: i’m currently learning mlops and kubernetes.
+:rocket: i’m currently learning [complex data mining](https://www.ic.unicamp.br/~mdc/) at unicamp.
 
 :mag: check out some of my works at [medium](https://mafda.medium.com/) and [codepen](https://codepen.io/mafda).
 
