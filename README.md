@@ -1,12 +1,12 @@
 ### :octocat: hi, i'm maría fernanda rodríguez r.
 
-:earth_americas: colombian living in brazil.
+:earth_asia: colombian living in south korea.
 
 :dart: as a multimedia engineer, i have experience in front-end development, research, and recently i am working as a data scientist.
 
 :computer: i like technology, and i am passionate about searching for and creating solutions. from my perspective, information technologies has enormous potential to solve problems, and it has an immense impact on everyone's life. being part of this process is exciting!
 
-🫰 i’m currently learning Korean at unicamp.
+🫰 i’m currently learning Korean.
 
 :mag: check out some of my works at [medium](https://mafda.medium.com/) and [codepen](https://codepen.io/mafda).
 
