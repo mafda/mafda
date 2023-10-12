@@ -8,7 +8,7 @@
 
 🫰 i’m currently learning Korean.
 
-:mag: check out some of my works at [medium](https://mafda.medium.com/) and [codepen](https://codepen.io/mafda).
+:mag: i've just released a new post on [medium](https://mafda.medium.com)! [why is it important to communicate data effectively?]([https://mafda.medium.com/](https://mafda.medium.com/why-is-it-important-to-communicate-data-effectively-949fd0375c0f)). check it out and let me know what you think.
 
 <!--
 **mafda/mafda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
