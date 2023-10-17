@@ -4,9 +4,7 @@
 
 :dart: as a multimedia engineer, i have experience in front-end development, research, and recently i am working as a data scientist.
 
-:computer: i like technology, and i am passionate about searching for and creating solutions. from my perspective, information technologies has enormous potential to solve problems, and it has an immense impact on everyone's life. being part of this process is exciting!
-
-🫰 i’m currently learning Korean.
+:computer: i am a person driven by a deep passion for technology, problem solving and continuous learning. in my view, information technologies possess immense potential to address challenges and significantly impact everyone's lives. being part of this process is exciting!
 
 :mag: i've just released a new post on **medium!** [why is it important to communicate data effectively?](https://mafda.medium.com/why-is-it-important-to-communicate-data-effectively-949fd0375c0f). check it out and let me know what you think.
 
