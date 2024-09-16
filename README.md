@@ -1,6 +1,6 @@
 ### :octocat: hi, i'm maría fernanda rodríguez r.
 
-:earth_asia: colombian living in south korea.
+:earth_asia: colombian living in brazil.
 
 :dart: as a multimedia engineer, i have experience in front-end development, research, and recently i am working as a data scientist.
 
