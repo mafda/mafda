@@ -2,11 +2,11 @@
 
 :earth_asia: colombian living in brazil.
 
-:dart: as a multimedia engineer, i have experience in front-end development, research, and recently i am working as a data scientist.
+:dart: i am a multimedia engineer with a solid background in front-end development, research, and more recently, in **data science**.
 
-:computer: i am a person driven by a deep passion for technology, problem solving and continuous learning. in my view, information technologies possess immense potential to address challenges and significantly impact everyone's lives. being part of this process is exciting!
+:computer: driven by curiosity and continuous learning, I aim to leverage data to deliver impactful solutions, while constantly growing my technical expertise and contributing to meaningful projects!
 
-:mag: i've just released a new post on **medium!** [Seattle Airbnb: Temporal Trends, Price Influences, and Customer Satisfaction Analysis](https://medium.com/@mafda/seattle-airbnb-data-analysis-a-data-driven-journey-with-crisp-dm-for-data-scientists-b66b5672c617). check it out and let me know what you think.
+:mag: currently, i am pursuing the data scientist nanodegree at [udacity](https://www.udacity.com/), enhancing my skills in the latest data science tools and techniques.
 
 <!--
 **mafda/mafda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
