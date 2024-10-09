@@ -1,12 +1,12 @@
 ### :octocat: hi, i'm maría fernanda rodríguez r.
 
-:earth_asia: colombian living in brazil.
+:earth_americas: colombian living in brazil.
 
 :dart: i am a multimedia engineer with a solid background in front-end development, research, and more recently, in **data science**.
 
-:computer: driven by curiosity and continuous learning, I aim to leverage data to deliver impactful solutions, while constantly growing my technical expertise and contributing to meaningful projects!
+:computer: driven by curiosity and continuous learning, i aim to leverage data to deliver impactful solutions, while constantly growing my technical expertise and contributing to meaningful projects!
 
-:mag: currently, i am pursuing the data scientist nanodegree at [udacity](https://www.udacity.com/), enhancing my skills in the latest data science tools and techniques.
+:blue_book: currently, i am pursuing the data scientist nanodegree at [udacity](https://www.udacity.com/), enhancing my skills in the latest data science tools and techniques.
 
 <!--
 **mafda/mafda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
